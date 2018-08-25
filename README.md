@@ -4,6 +4,8 @@
 [![npm package][npm-badge]][npm]
 [![Coveralls][coveralls-badge]][coveralls]
 
+[DEMO](https://zetsin.github.io/react-shadow-image/demo/dist/index.html)
+
 ```
 <div>
   <div {...ShadowProps}></div>

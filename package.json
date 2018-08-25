@@ -1,6 +1,6 @@
 {
   "name": "react-shadow-image",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react-shadow-image React component",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -29,7 +29,7 @@
     "react-dom": "^16.4.2"
   },
   "author": "",
-  "homepage": "",
+  "homepage": "https://github.com/zetsin/react-shadow-image",
   "license": "MIT",
   "repository": "",
   "keywords": [
