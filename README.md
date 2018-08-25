@@ -4,7 +4,15 @@
 [![npm package][npm-badge]][npm]
 [![Coveralls][coveralls-badge]][coveralls]
 
-Describe react-shadow-image here.
+```
+<div>
+  <div {...ShadowProps}></div>
+  <div {...ImageProps}>
+    <img {...imgProps}></img>
+    <div>{children}</div>
+  </div>
+</div>
+```
 
 [build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
 [build]: https://travis-ci.org/user/repo
